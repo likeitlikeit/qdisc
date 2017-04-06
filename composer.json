@@ -20,6 +20,7 @@
         "php": ">=5.3.9",
         "doctrine/doctrine-bundle": "~1.4",
         "doctrine/orm": "^2.4.8",
+        "friendsofsymfony/elastica-bundle": "~3.1",
         "incenteev/composer-parameter-handler": "~2.0",
         "sensio/distribution-bundle": "~4.0",
         "sensio/framework-extra-bundle": "^3.0.2",
@@ -28,7 +29,7 @@
         "symfony/swiftmailer-bundle": "~2.3,>=2.3.10",
         "symfony/symfony": "2.8.*",
         "twig/twig": "^1.0||^2.0",
-        "friendsofsymfony/elastica-bundle": "~3.1"
+        "white-october/pagerfanta-bundle": "^1.0"
     },
     "require-dev": {
         "sensio/generator-bundle": "~3.0",
